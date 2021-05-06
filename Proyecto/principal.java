@@ -4,6 +4,9 @@ public class principal {
     public static void main(String[] args){
         System.out.println("Hola xdxd");
         System.out.println("QUE LLICO HELADITO");
-        oi es un dia especial 
+        System.out.println("ENTIDAD");
+        System.out.println("ENTIDAD2");
     }
 }
+
+
